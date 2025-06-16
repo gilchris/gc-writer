@@ -1,0 +1,7 @@
+PC (Linux, Windows, MacOS) 환경에서 음성을 텍스트로 받아쓰는 프로그램을 만드려고 해
+
+speech to text 는 OpenAI Whisper 모델(https://github.com/openai/whisper)을 사용할 예정이야
+UI는 따로 없고, 작업표시줄에 아이콘을 띄워서 실행중을 표시할꺼야
+전역 단축키로 왼쪽 Ctrl + Alt + Space 를 누르고 있는 동안에만 음성을 받아쓰도록 할꺼야
+----
+이 프로그램을 만드려면 어떤 단계들을 거쳐야 하는지 깊게 생각해봐

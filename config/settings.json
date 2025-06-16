@@ -1,0 +1,52 @@
+{
+  "audio": {
+    "sample_rate": 16000,
+    "channels": 1,
+    "dtype": "float32",
+    "device_index": 13,
+    "silence_threshold": 0.01,
+    "remove_silence": true
+  },
+  "whisper": {
+    "model_name": "base",
+    "language": "en",
+    "task": "transcribe",
+    "fp16": false,
+    "temperature": 0.0,
+    "best_of": 5,
+    "beam_size": 5
+  },
+  "hotkey": {
+    "combination": [
+      "ctrl",
+      "alt",
+      "space"
+    ],
+    "enabled": true
+  },
+  "ui": {
+    "show_notifications": true,
+    "notification_duration": 3000,
+    "minimize_to_tray": true,
+    "start_minimized": true
+  },
+  "clipboard": {
+    "auto_copy": true,
+    "history_enabled": true,
+    "max_history": 50,
+    "backup_previous": true
+  },
+  "logging": {
+    "level": "INFO",
+    "file_enabled": true,
+    "console_enabled": true,
+    "max_file_size": 10485760,
+    "backup_count": 5
+  },
+  "advanced": {
+    "gpu_acceleration": false,
+    "thread_pool_size": 4,
+    "audio_buffer_size": 1024,
+    "auto_start": false
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(asdf plugin-add:*)",
+      "Bash(asdf install:*)",
+      "Bash(pip install:*)",
+      "Bash(mkdir:*)",
+      "Bash(python:*)",
+      "Bash(chmod:*)",
+      "Bash(export QT_QPA_PLATFORM=wayland)",
+      "Bash(export QT_QPA_PLATFORM=offscreen)",
+      "Bash(grep:*)",
+      "Bash(sed:*)",
+      "Bash(./build_linux.sh:*)",
+      "Bash(./create_deb.sh:*)",
+      "Bash(ls:*)",
+      "Bash(pyinstaller:*)",
+      "Bash(rm:*)"
+    ],
+    "deny": []
+  }
+}

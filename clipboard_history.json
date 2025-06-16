@@ -1,0 +1,35 @@
+[
+  {
+    "text": "내보내기3",
+    "timestamp": "2025-06-17T03:05:44.512875",
+    "hash": "fdb36808bb4484c5",
+    "length": 5,
+    "source": "test",
+    "previous_clipboard": "내보내기2",
+    "copy_time": 0.00874638557434082,
+    "confidence": null,
+    "language": null
+  },
+  {
+    "text": "내보내기2",
+    "timestamp": "2025-06-17T03:05:44.474435",
+    "hash": "7da0b57fd02097b0",
+    "length": 5,
+    "source": "test",
+    "previous_clipboard": "내보내기1",
+    "copy_time": 0.00655364990234375,
+    "confidence": null,
+    "language": null
+  },
+  {
+    "text": "내보내기1",
+    "timestamp": "2025-06-17T03:05:44.442214",
+    "hash": "c7c1d7effc89cf22",
+    "length": 5,
+    "source": "test",
+    "previous_clipboard": "통계3",
+    "copy_time": 0.0037889480590820312,
+    "confidence": null,
+    "language": null
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "text": "시뮬레이션 테스트 텍스트",
+    "timestamp": "2025-06-17T03:19:09.730216",
+    "hash": "a1d0585473a07181",
+    "length": 13,
+    "source": "voice_transcription",
+    "previous_clipboard": "내보내기3",
+    "copy_time": 0.0048444271087646484,
+    "confidence": 0.95,
+    "language": "unknown"
+  }
+]
